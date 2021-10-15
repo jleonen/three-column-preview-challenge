@@ -1,0 +1,107 @@
+@import url("https://fonts.google.com/specimen/Lexend+Deca");
+
+body {
+  font-size: 15px;
+  margin: 400px 600px;
+  line-height: 1.5;
+  text-align: center;
+}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+
+.sedan p,
+.suv p,
+.luxury p {
+  padding: 0 40px 80px 40px;
+}
+
+.sedan,
+.suv,
+.luxury {
+  padding-top: 50px;
+}
+
+.sedan {
+  background-color: hsl(31, 77%, 52%);
+  height: 400px;
+
+  flex-basis: 250px;
+  border-radius: 12px 0 0 12px;
+}
+
+.suv {
+  background-color: hsl(184, 100%, 22%);
+  height: 400px;
+
+  flex-basis: 250px;
+}
+
+.luxury {
+  background-color: hsl(179, 100%, 13%);
+  height: 400px;
+
+  flex-basis: 250px;
+  border-radius: 0 12px 12px 0;
+}
+
+p {
+  color: hsla(0, 0%, 100%, 0.75);
+  text-align: left;
+}
+
+h2 {
+  color: hsl(0, 0%, 95%);
+  padding-right: 80px;
+}
+
+img {
+  padding-right: 100px;
+}
+
+.buttonSedan,
+.buttonSUV,
+.buttonLuxury {
+  background-color: hsl(0, 0%, 95%);
+  border-color: hsl(0, 0%, 95%);
+  border-radius: 12px;
+  padding: 10px 25px;
+}
+
+.buttonSedan {
+  color: hsl(31, 77%, 52%);
+}
+
+.buttonSedan:hover {
+  background-color: hsl(31, 77%, 52%);
+  color: hsl(0, 0%, 95%);
+}
+
+.buttonSUV {
+  color: hsl(184, 100%, 22%);
+}
+
+.buttonLuxury {
+  color: hsl(179, 100%, 13%);
+}
+
+.buttonSUV:hover {
+  background-color: hsl(184, 100%, 22%);
+  color: hsl(0, 0%, 95%);
+}
+
+.buttonLuxury:hover {
+  background-color: hsl(179, 100%, 13%);
+  color: hsl(0, 0%, 95%);
+}
+
+.flex-container {
+  display: flex;
+  border-radius: 12px;
+  align-items: flex-end;
+}
