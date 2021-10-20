@@ -1,4 +1,5 @@
 @import url("https://fonts.google.com/specimen/Lexend+Deca");
+@import url("https://fonts.google.com/specimen/Big+Shoulders+Display");
 
 body {
   font-size: 15px;
@@ -19,6 +20,7 @@ body {
 .suv p,
 .luxury p {
   padding: 0 40px 80px 40px;
+  font-family: "Lexend Deca", sans-serif;
 }
 
 .sedan,
@@ -62,6 +64,8 @@ p {
 h2 {
   color: hsl(0, 0%, 95%);
   padding-right: 80px;
+  font-family: "Big Shoulders Display", cursive;
+  font-weight: 700;
 }
 
 img {
@@ -75,6 +79,7 @@ img {
   border-color: hsl(0, 0%, 95%);
   border-radius: 12px;
   padding: 10px 25px;
+  font-family: "Lexend Deca", sans-serif;
 }
 
 .buttonSedan {
