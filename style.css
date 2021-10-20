@@ -109,3 +109,16 @@ img {
   border-radius: 12px;
   justify-content: center;
 }
+
+@media (max-width: 631px) {
+  .flex-container {
+    width: 650px;
+  }
+}
+
+@media (max-width: 450px) {
+  .flex-container {
+    flex-direction: column;
+    width: auto;
+  }
+}
