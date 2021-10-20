@@ -115,9 +115,10 @@ img {
   justify-content: center;
 }
 
-@media (max-width: 631px) {
+@media (max-width: 650px) {
   .flex-container {
     width: 650px;
+    font-size: small;
   }
 }
 
