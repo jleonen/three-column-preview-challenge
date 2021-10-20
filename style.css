@@ -179,4 +179,10 @@ img {
   .sedan {
     border-radius: 12px 12px 0 0;
   }
+
+  .modal {
+    top: 70%;
+    padding: 4rem;
+    height: 50%;
+  }
 }

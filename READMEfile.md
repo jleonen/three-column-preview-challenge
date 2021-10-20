@@ -32,13 +32,13 @@ Users should be able to:
 
 ### What I learned
 
-I learned more about the properties of Flexbox and the effect each property has on the elements. I also learned more about how to apply hover states to buttons as well. I also had more practice on how to apply styles to child elements.
+I learned more about the properties of Flexbox and the effect each property has on the elements. I also learned more about how to apply hover states to buttons as well. I also had more practice on how to apply styles to child elements. I also had the opportunity to practice using media queries to make the webpage responsive.
 
 ### Continued development
 
 Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
 
-I believe that I will need more practice with using flexbox in future challenges in order to fully understand it. I also need to practice using CSS grid as well, since it is also an important concept. Also, I need to learn about how to make this website responsive, since at this moment the website is not responsive.
+I believe that I will need more practice with using flexbox in future challenges in order to fully understand it. I also need to practice using CSS grid as well, since it is also an important concept.
 
 ## Author
 
